@@ -1,1 +1,2590 @@
-[]
+[
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "abyss-tablet-abyss-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "andvarius-gold-ring",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "apeps-supremacy-voodoo-focus",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "apron-of-emiran-hermit-garb",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "apron-of-emiran-runemastered-hermit-garb",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "arakaalis-gift-antidote-charm",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "arvils-wheel-hardwood-targe",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "arvils-wheel-runemastered-hardwood-targe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "asphyxias-wrath-broadhead-quiver",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "astramentis-stellar-amulet",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "atsaks-sight-runemastered-veiled-mask",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "atsaks-sight-veiled-mask",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "atziris-acuity-moulded-mitts",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "atziris-disdain-gold-circlet",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "atziris-disdain-runemastered-gold-circlet",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "aurseize-layered-gauntlets",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "aurseize-runemastered-layered-gauntlets",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "beacon-of-azis-solar-amulet",
+    "itemLevel": 30,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "beetlebite-velour-shoes",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "beiras-anguish-dousing-charm",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "belly-of-the-beast-explorer-armour",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "bereks-grip-two-stone-ring",
+    "itemLevel": 42,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "bijouborne-double-belt",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "birth-of-fury-runemastered-stone-greaves",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "birth-of-fury-stone-greaves",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "birthright-buckle-wide-belt",
+    "itemLevel": 14,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bitterbloom-feathered-robe",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bitterbloom-runemastered-feathered-robe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "black-sun-crest-runemastered-wrapped-greathelm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "black-sun-crest-wrapped-greathelm",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blackbraid-fur-plate",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blackbraid-runeforged-fur-plate",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "blackflame-amethyst-ring",
+    "itemLevel": 20,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blackgleam-fire-quiver",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "blistering-bond-ruby-ring",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "UniqueFlasks",
+    "url": "unique-flasks",
+    "detailsId": "blood-of-the-warrior-gargantuan-life-flask",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blood-price-fierce-greathelm",
+    "itemLevel": 51,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blueflame-bracers-goldcast-cuffs",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "blueflame-bracers-runemastered-goldcast-cuffs",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bones-of-ullr-lattice-sandals",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bones-of-ullr-runemastered-lattice-sandals",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "brain-rattler-studded-greatclub",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bramblejack-rusted-cuirass",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "breach-tablet-breach-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "breach-tablet-breach-tablet-normal",
+    "itemLevel": 0,
+    "variant": "Normal",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "briarpatch-laced-boots",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "briarpatch-runemastered-laced-boots",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "briskwrap-rhoahide-coat",
+    "itemLevel": 22,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "briskwrap-runemastered-rhoahide-coat",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bristleboar-leather-vest",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bristleboar-runemastered-leather-vest",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bronzebeard-horned-crown",
+    "itemLevel": 10,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bronzebeard-runemastered-horned-crown",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "brynhands-mark-wooden-club",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bushwhack-lizardscale-boots",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "bushwhack-runemastered-lizardscale-boots",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "byrnabas-wide-belt",
+    "itemLevel": 14,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "calgyras-arc-ornate-buckler",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "call-of-the-brotherhood-topaz-ring",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "candlemaker-runemastered-sombre-gloves",
+    "itemLevel": 39,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "candlemaker-sombre-gloves",
+    "itemLevel": 12,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "carnage-heart-amber-amulet",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "carrion-call-engraved-focus",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "cat-o-nine-tails-utility-belt",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueTablets",
+    "url": "unique-tablets",
+    "detailsId": "clear-skies-delirium-tablet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "cloak-of-flame-runemastered-silk-robe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "cloak-of-flame-silk-robe",
+    "itemLevel": 22,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "coat-of-red-chain-mail",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "coat-of-red-runemastered-chain-mail",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "constricting-command-runemastered-viper-cap",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "constricting-command-viper-cap",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "cornathaum-heavy-crown",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "corona-of-the-red-sun-runemastered-warrior-greathelm",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "corona-of-the-red-sun-warrior-greathelm",
+    "itemLevel": 36,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "corpsewade-iron-greaves",
+    "itemLevel": 64,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "corpsewade-runemastered-iron-greaves",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "cowards-legacy-mail-belt",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crest-of-ardura-jingling-crest-shield",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crest-of-ardura-runemastered-jingling-crest-shield",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-eyes-vermeil-circlet",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-the-pale-king-cultist-crown",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-the-pale-king-runemastered-cultist-crown",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-the-victor-iron-crown",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-the-victor-runemastered-iron-crown",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-thorns-runemastered-twig-circlet",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "crown-of-thorns-twig-circlet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueTablets",
+    "url": "unique-tablets",
+    "detailsId": "cruel-hegemony-overseer-tablet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "daevatas-wind-war-spear",
+    "itemLevel": 21,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "darkray-vectors-braced-sabatons",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "deathblow-doubled-gauntlets",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "deathrattle-runemastered-twig-focus",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "deathrattle-twig-focus",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "delirium-tablet-delirium-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "delirium-tablet-delirium-tablet-normal",
+    "itemLevel": 0,
+    "variant": "Normal",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "demon-stitcher-intricate-gloves",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dionadair-runemastered-splintered-tower-shield",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dionadair-splintered-tower-shield",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "doedres-damning-lazuli-ring",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "doedres-tenure-runemastered-stitched-gloves",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "doedres-tenure-stitched-gloves",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "doomgate-braced-tower-shield",
+    "itemLevel": 12,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "doomgate-runemastered-braced-tower-shield",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "doryanis-prototype-scale-mail",
+    "itemLevel": 37,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dreadfist-bolstered-mitts",
+    "itemLevel": 27,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dreadfist-runemastered-bolstered-mitts",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "dream-fragments-sapphire-ring",
+    "itemLevel": 12,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dunkelhalt-leather-buckler",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dunkelhalt-runemastered-leather-buckler",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dustbloom-runemastered-studded-vest",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "dustbloom-studded-vest",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "earthbound-voltaic-staff",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "edyrns-tusks-iron-cuirass",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "edyrns-tusks-runemastered-iron-cuirass",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "elevore-hunter-hood",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "empires-grasp-titan-mitts",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "enezuns-charge-volatile-wand",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "enfolding-dawn-pilgrim-vestments",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "enfolding-dawn-runemastered-pilgrim-vestments",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "erians-cobble-guarded-helm",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "erians-cobble-runemastered-guarded-helm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "essentia-sanguis-furtive-wraps",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "evergrasping-ring-pearl-ring",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "eye-of-chayula-gold-amulet",
+    "itemLevel": 35,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ezomyte-peak-runemastered-soldier-greathelm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ezomyte-peak-soldier-greathelm",
+    "itemLevel": 12,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "facebreaker-runemastered-stocky-mitts",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "facebreaker-stocky-mitts",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "feathered-fortress-crescent-targe",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "feathered-fortress-runemastered-crescent-targe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "fireflower-solar-amulet",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "fixation-of-yix-stellar-amulet",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "for-utopia-stone-charm",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "forsaken-bangle-amethyst-charm",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "foxshade-quilted-vest",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "foxshade-runemastered-quilted-vest",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gamblesprint-embossed-boots",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gamblesprint-runemastered-embossed-boots",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "geofris-sanctuary-revered-vestments",
+    "itemLevel": 65,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ghostmarch-runemastered-threaded-shoes",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ghostmarch-threaded-shoes",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ghostwrithe-runemastered-tattered-robe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ghostwrithe-tattered-robe",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "gifts-from-above-prismatic-ring",
+    "itemLevel": 35,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gloamgown-elementalist-robe",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gloomform-runemastered-waxed-jacket",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gloomform-waxed-jacket",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "glowswarm-lazuli-ring",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "goldrim-felt-cap",
+    "itemLevel": 10,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "goldrim-runemastered-felt-cap",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "goregirdle-plate-belt",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gravebind-rope-cuffs",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "gravebind-runemastered-rope-cuffs",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "greeds-embrace-vaal-cuirass",
+    "itemLevel": 37,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "greymake-brimmed-helm",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "greymake-runemastered-brimmed-helm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "grip-of-winter-firm-bracers",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "grip-of-winter-runemastered-firm-bracers",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueJewels",
+    "url": "unique-jewels",
+    "detailsId": "heart-of-the-well-diamond",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "heartbound-loop-pearl-ring",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "heatshiver-velvet-cap",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "hinekoras-sight-stellar-amulet",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "hoghunt-runeforged-felled-greatclub",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "horns-of-bynden-runemastered-rusted-greathelm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "horns-of-bynden-rusted-greathelm",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "hyssegs-claw-runeforged-familial-talisman",
+    "itemLevel": 64,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "icefang-orbit-iron-ring",
+    "itemLevel": 36,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "icetomb-mail-vestments",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "icetomb-runemastered-mail-vestments",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "idle-hands-runemastered-sectioned-bracers",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "idle-hands-sectioned-bracers",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "idol-of-uldurn-crimson-amulet",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "igniferis-crimson-amulet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "innsmouth-runemastered-shabby-hood",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "innsmouth-shabby-hood",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "ironbound-warden-bow",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "irongrasp-runemastered-vagabond-armour",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "irongrasp-vagabond-armour",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "ironride-visored-helm",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "irradiated-tablet-irradiated-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "irradiated-tablet-irradiated-tablet-normal",
+    "itemLevel": 0,
+    "variant": "Normal",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "jarngreipr-ringmail-gauntlets",
+    "itemLevel": 6,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "jarngreipr-runemastered-ringmail-gauntlets",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kaltenhalt-ridged-buckler",
+    "itemLevel": 22,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kaltenhalt-runemastered-ridged-buckler",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "keelhaul-linen-belt",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "killjoy-linen-wraps",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kingsguard-full-plate",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kingsguard-runemastered-full-plate",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kitokos-current-jewelled-gloves",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "kitokos-current-runemastered-jewelled-gloves",
+    "itemLevel": 50,
+    "stats": []
+  },
+  {
+    "type": "UniqueFlasks",
+    "url": "unique-flasks",
+    "detailsId": "laviangas-spirits-gargantuan-mana-flask",
+    "itemLevel": 49,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "leer-cast-hooded-mask",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "leer-cast-runemastered-hooded-mask",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "legionstride-rough-greaves",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "levinstone-topaz-ring",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "lightning-coil-ancestral-mail",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "ligurium-talisman-lapis-amulet",
+    "itemLevel": 35,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "lochtonial-caress-runemastered-tempered-mitts",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "lochtonial-caress-tempered-mitts",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "luminous-pace-runemastered-straw-sandals",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "luminous-pace-straw-sandals",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "lycosidae-rampart-tower-shield",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "lycosidae-runemastered-rampart-tower-shield",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "mask-of-the-sanguimancer-face-mask",
+    "itemLevel": 10,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "mask-of-the-sanguimancer-runemastered-face-mask",
+    "itemLevel": 50,
+    "stats": []
+  },
+  {
+    "type": "UniqueTablets",
+    "url": "unique-tablets",
+    "detailsId": "mastered-domain-irradiated-tablet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "meginords-girdle-rawhide-belt",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "mist-whisper-runeforged-makeshift-crossbow",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "murkshaft-toxic-quiver",
+    "itemLevel": 84,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "nascent-hope-thawing-charm",
+    "itemLevel": 12,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "nazirs-judgement-runeforged-steelpoint-quarterstaff",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "necromantle-bone-raiment",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "necromantle-runemastered-bone-raiment",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "ngamahus-chosen-ruby-charm",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "nightscale-pauascale-gloves",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "nocturne-runemastered-wooden-buckler",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "nocturne-wooden-buckler",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "northpaw-runemastered-suede-bracers",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "northpaw-suede-bracers",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "oaksworn-runemastered-sigil-crest-shield",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "oaksworn-sigil-crest-shield",
+    "itemLevel": 7,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "oberns-bastion-runemastered-stacked-sabatons",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "oberns-bastion-stacked-sabatons",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "original-sin-amethyst-ring",
+    "itemLevel": 20,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "overseer-tablet-overseer-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "painters-servant-runemastered-torn-gloves",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "painters-servant-torn-gloves",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "pariahs-embrace-cloaked-mail",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "pariahs-embrace-runemastered-cloaked-mail",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "perandus-seal-gold-ring",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "plaguefinger-gauze-wraps",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "plaguefinger-runemastered-gauze-wraps",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "powertread-hunting-shoes",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "powertread-runemastered-hunting-shoes",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "prayers-for-rain-keth-raiment",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "prayers-for-rain-runemastered-keth-raiment",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueJewels",
+    "url": "unique-jewels",
+    "detailsId": "prism-of-belief-diamond",
+    "corrupted": true,
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "prized-pain-iron-ring",
+    "itemLevel": 48,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "queen-of-the-forest-smuggler-coat",
+    "itemLevel": 51,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "radiant-grief-lace-hood",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "radiant-grief-runeforged-lace-hood",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "rampart-raptor-tense-crossbow",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "rearguard-blunt-quiver",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "redblade-banner-heraldric-tower-shield",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "redblade-banner-runemastered-heraldric-tower-shield",
+    "itemLevel": 50,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "redflare-conduit-anchorite-garb",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "revered-resin-amber-amulet",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "reverie-runemastered-shaman-mantle",
+    "itemLevel": 64,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "rise-of-the-phoenix-omen-crest-shield",
+    "itemLevel": 36,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "rise-of-the-phoenix-runemastered-omen-crest-shield",
+    "itemLevel": 48,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "ritual-tablet-ritual-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "rondel-de-ezo-plated-buckler",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "rondel-de-ezo-runemastered-plated-buckler",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "rondel-of-fragility-lunar-amulet",
+    "itemLevel": 14,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "ryslathas-coil-ornate-belt",
+    "itemLevel": 31,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "saffells-frame-emblem-crest-shield",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "saffells-frame-runemastered-emblem-crest-shield",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "sands-of-silk-runemastered-shrouded-vest",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "sands-of-silk-shrouded-vest",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "sanguis-heroum-staunching-charm",
+    "itemLevel": 18,
+    "stats": []
+  },
+  {
+    "type": "UniqueTablets",
+    "url": "unique-tablets",
+    "detailsId": "season-of-the-hunt-overseer-tablet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "seed-of-cataclysm-lazuli-ring",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "serpents-egg-gold-amulet",
+    "itemLevel": 35,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "serpents-lesson-runemastered-tonal-focus",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "serpents-lesson-tonal-focus",
+    "itemLevel": 22,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "shackles-of-the-wretched-aged-cuffs",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "shankgonne-covered-sabatons",
+    "itemLevel": 84,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "shankgonne-runemastered-covered-sabatons",
+    "itemLevel": 66,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "shavronnes-satchel-fine-belt",
+    "itemLevel": 62,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "shyaba-temple-maul",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "sierran-inheritance-marabout-garb",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "sierran-inheritance-runemastered-marabout-garb",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "silverthorne-runemastered-spiked-buckler",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "silverthorne-spiked-buckler",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "slivertongue-zealot-bow",
+    "itemLevel": 39,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "snakebite-runemastered-spined-bracers",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "snakebite-spined-bracers",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "snakepit-pearl-ring",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "soul-mantle-runemastered-sacrificial-mantle",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "soul-mantle-sacrificial-mantle",
+    "itemLevel": 36,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "splinter-of-lorrata-runeforged-hardwood-spear",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "splinterheart-runeforged-recurve-bow",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "stone-of-lazhwar-lapis-amulet",
+    "itemLevel": 8,
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "temple-tablet-temple-tablet-magic",
+    "itemLevel": 0,
+    "variant": "Magic",
+    "stats": []
+  },
+  {
+    "type": "PrecursorTablets",
+    "url": "precursor-tablets",
+    "detailsId": "temple-tablet-temple-tablet-normal",
+    "itemLevel": 0,
+    "variant": "Normal",
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "tetzlapokals-desire-votive-raiment",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "the-anvil-bloodstone-amulet",
+    "itemLevel": 18,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-barrow-dweller-rogue-armour",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-barrow-dweller-runemastered-rogue-armour",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "the-black-cat-grounding-charm",
+    "itemLevel": 32,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-black-doubt-hexers-robe",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-black-doubt-runemastered-hexers-robe",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-black-insignia-corsair-cap",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-black-insignia-runemastered-corsair-cap",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "the-blood-thorn-wrapped-quarterstaff",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-bringer-of-rain-decorated-helm",
+    "itemLevel": 52,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "the-burrower-topaz-ring",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-covenant-runemastered-altar-robe",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-dancing-mirage-runemastered-wayfarer-jacket",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-dancing-mirage-wayfarer-jacket",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-devouring-diadem-runemastered-wicker-tiara",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-devouring-diadem-wicker-tiara",
+    "itemLevel": 10,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-eternal-spark-crystal-focus",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-eternal-spark-runemastered-crystal-focus",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "the-fall-of-the-axe-silver-charm",
+    "itemLevel": 10,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-hollow-mask-hewn-mask",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-hollow-mask-runemastered-hewn-mask",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-infinite-pursuit-bronze-greaves",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-infinite-pursuit-runemastered-bronze-greaves",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-knight-errant-mail-sabatons",
+    "itemLevel": 6,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-knight-errant-runemastered-mail-sabatons",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-lethal-draw-sacral-quiver",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-prisoners-manacles-kalguuran-cuffs",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-prisoners-manacles-runemastered-verisium-cuffs",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-rat-cage-scouts-vest",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-smiling-knight-cowled-helm",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-smiling-knight-runemastered-cowled-helm",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-sunken-vessel-knight-armour",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-sunken-vessel-runemastered-knight-armour",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-three-dragons-runemastered-solid-mask",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-three-dragons-solid-mask",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-vertex-tribal-mask",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "the-vile-knight-shielded-helm",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "the-wicked-quill-withered-wand",
+    "itemLevel": 78,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "thiefs-torment-emerald-ring",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "threaded-light-runemastered-woven-focus",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "threaded-light-woven-focus",
+    "itemLevel": 6,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "thrillsteel-spired-greathelm",
+    "itemLevel": 27,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "titanrot-cataphract-maraketh-cuirass",
+    "itemLevel": 20,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "titanrot-cataphract-runemastered-maraketh-cuirass",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "trampletoe-runemastered-trimmed-greaves",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "trampletoe-trimmed-greaves",
+    "itemLevel": 27,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "treefingers-riveted-mitts",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "trenchtimbre-spiked-club",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueWeapons",
+    "url": "unique-weapons",
+    "detailsId": "tyrannys-grip-runeforged-ironhead-spear",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "umbilicus-immortalis-linen-belt",
+    "itemLevel": 24,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "ungils-harmony-azure-amulet",
+    "itemLevel": 25,
+    "stats": []
+  },
+  {
+    "type": "UniqueCharms",
+    "url": "unique-charms",
+    "detailsId": "valakos-roar-topaz-charm",
+    "itemLevel": 5,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "valakos-vice-plate-gauntlets",
+    "itemLevel": 45,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "valakos-vice-runemastered-plate-gauntlets",
+    "itemLevel": 55,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "veil-of-the-night-martyr-crown",
+    "itemLevel": 28,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "veil-of-the-night-runemastered-martyr-crown",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "venopuncture-iron-ring",
+    "itemLevel": 36,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "ventors-gamble-gold-ring",
+    "itemLevel": 64,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "vigilant-view-emerald-ring",
+    "itemLevel": 26,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "visage-of-ayah-beaded-circlet",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "visage-of-ayah-runemastered-beaded-circlet",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "waistgate-heavy-belt",
+    "itemLevel": 50,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wake-of-destruction-runemastered-secured-leggings",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wake-of-destruction-secured-leggings",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wandering-reliquary-runemastered-steel-plate",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wandering-reliquary-steel-plate",
+    "itemLevel": 27,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wanderlust-runemastered-wrapped-sandals",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wanderlust-wrapped-sandals",
+    "itemLevel": 11,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "waveshaper-runemastered-tideseer-mantle",
+    "itemLevel": 65,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "waveshaper-tideseer-mantle",
+    "itemLevel": 51,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "window-to-paradise-barricade-tower-shield",
+    "itemLevel": 16,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "window-to-paradise-runemastered-barricade-tower-shield",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "windscream-feathered-sandals",
+    "itemLevel": 33,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "windscream-runemastered-feathered-sandals",
+    "itemLevel": 40,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wings-of-caelyn-runemastered-rusted-greathelm",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wings-of-caelyn-rusted-greathelm",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wondertrap-runemastered-silk-slippers",
+    "itemLevel": 38,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wondertrap-silk-slippers",
+    "itemLevel": 27,
+    "stats": []
+  },
+  {
+    "type": "UniqueTablets",
+    "url": "unique-tablets",
+    "detailsId": "wraeclast-besieged-breach-tablet",
+    "itemLevel": 0,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "wulfsbane-painted-tower-shield",
+    "itemLevel": 6,
+    "stats": []
+  },
+  {
+    "type": "UniqueAccessories",
+    "url": "unique-accessories",
+    "detailsId": "yoke-of-suffering-bloodstone-amulet",
+    "itemLevel": 18,
+    "stats": []
+  },
+  {
+    "type": "UniqueArmours",
+    "url": "unique-armours",
+    "detailsId": "yriels-fostering-strider-vest",
+    "itemLevel": 52,
+    "stats": []
+  }
+]
