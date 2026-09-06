@@ -33,6 +33,7 @@
   "itemPropertyArmour": "Armour",
   "itemPropertyEvasionRating": "Evasion Rating",
   "itemPropertyEnergyShield": "Energy Shield",
+  "itemPropertyRunicWard": "Runic Ward",
   "itemPropertyBlockChance": "Block chance",
   "itemPropertyAttacksPerSecond": "Attacks per Second",
   "itemPropertyCriticalStrikeChance": "Critical Hit Chance",
