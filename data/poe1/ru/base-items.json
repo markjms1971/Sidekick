@@ -15738,7 +15738,7 @@
   {
     "id": "Metadata/Items/Deepwater/ChartCoralForest",
     "itemClassId": "DeepwaterChart",
-    "name": "\u041A\u0430\u0440\u0442\u0430 \u043A\u043E\u0440\u0430\u043B\u043B\u043E\u0432\u043E\u0433\u043E \u043B\u0435\u0441\u0430",
+    "name": "\u041C\u043E\u0440\u0441\u043A\u0430\u044F \u043A\u0430\u0440\u0442\u0430 \u043A\u043E\u0440\u0430\u043B\u043B\u043E\u0432\u043E\u0433\u043E \u043B\u0435\u0441\u0430",
     "req": {
       "lvl": 1
     }
@@ -15746,7 +15746,7 @@
   {
     "id": "Metadata/Items/Deepwater/ChartCoralReef",
     "itemClassId": "DeepwaterChart",
-    "name": "\u041A\u0430\u0440\u0442\u0430 \u043A\u043E\u0440\u0430\u043B\u043B\u043E\u0432\u043E\u0433\u043E \u0440\u0438\u0444\u0430",
+    "name": "\u041C\u043E\u0440\u0441\u043A\u0430\u044F \u043A\u0430\u0440\u0442\u0430 \u043A\u043E\u0440\u0430\u043B\u043B\u043E\u0432\u043E\u0433\u043E \u0440\u0438\u0444\u0430",
     "req": {
       "lvl": 1
     }
@@ -15754,7 +15754,7 @@
   {
     "id": "Metadata/Items/Deepwater/ChartSandy",
     "itemClassId": "DeepwaterChart",
-    "name": "\u041A\u0430\u0440\u0442\u0430 \u043F\u0435\u0441\u0447\u0430\u043D\u043E\u0433\u043E \u0434\u043D\u0430",
+    "name": "\u041C\u043E\u0440\u0441\u043A\u0430\u044F \u043A\u0430\u0440\u0442\u0430 \u043F\u0435\u0441\u0447\u0430\u043D\u043E\u0433\u043E \u0434\u043D\u0430",
     "req": {
       "lvl": 1
     }
@@ -15762,7 +15762,7 @@
   {
     "id": "Metadata/Items/Deepwater/ChartThermalVents",
     "itemClassId": "DeepwaterChart",
-    "name": "\u041A\u0430\u0440\u0442\u0430 \u0442\u0435\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0445 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u043E\u0432",
+    "name": "\u041C\u043E\u0440\u0441\u043A\u0430\u044F \u043A\u0430\u0440\u0442\u0430 \u0442\u0435\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0445 \u0438\u0441\u0442\u043E\u0447\u043D\u0438\u043A\u043E\u0432",
     "req": {
       "lvl": 1
     }
@@ -15811,6 +15811,14 @@
     "id": "Metadata/Items/Deepwater/DeepwaterChartReroll",
     "itemClassId": "StackableCurrency",
     "name": "\u0414\u0443\u043A\u0430\u0442 \u0422\u0435\u043B\u0435\u0441\u0438\u0438",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/Deepwater/DeepwaterEldritch",
+    "itemClassId": "StackableCurrency",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u0423\u043A\u0430\u0442\u043E\u0430",
     "req": {
       "lvl": 1
     }
@@ -22805,6 +22813,94 @@
     "name": "\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430: \u041F\u043E\u0440\u044B\u0432 \u0432\u0435\u0442\u0440\u0430",
     "req": {
       "lvl": 31
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x3",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x4",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x3",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x4",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem4x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u043F\u0440\u0435\u0434\u043C\u0435\u0442",
+    "req": {
+      "lvl": 1
     }
   },
   {
@@ -31731,6 +31827,54 @@
     "id": "Metadata/Items/PantheonSouls/PantheonSoulYugulUpgrade1",
     "itemClassId": "PantheonSoul",
     "name": "\u0417\u0430\u0445\u0432\u0430\u0447\u0435\u043D\u043D\u0430\u044F \u0434\u0443\u0448\u0430 \u0412\u0430\u0440\u0445\u0435\u0448\u0430, \u0421\u0432\u0435\u0440\u043A\u0430\u044E\u0449\u0435\u0433\u043E \u043E\u0442\u0440\u043E\u0434\u044C\u044F",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat1",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u0446\u0435\u043F\u043A\u0438\u0445 \u0433\u043B\u0443\u0431\u0438\u043D",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat2",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u043D\u0435\u0447\u0435\u0441\u0442\u0438\u0432\u043E\u0433\u043E \u0440\u043E\u0434\u0430",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat3",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u0434\u0430\u0440\u0430 \u0422\u0441\u043E\u0430\u0442\u044B",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat4",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u043D\u0435\u0443\u043F\u043E\u043A\u043E\u0435\u043D\u043D\u043E\u0433\u043E \u043C\u043E\u0440\u044F",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat5",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u044D\u0432\u043A\u0430\u0440\u0438\u0434",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat6",
+    "itemClassId": "CursedDucat",
+    "name": "\u0414\u0443\u043A\u0430\u0442 \u0443\u043F\u0430\u0432\u0448\u0438\u0445 \u0437\u0432\u0451\u0437\u0434",
     "req": {
       "lvl": 1
     }
@@ -43232,7 +43376,7 @@
   {
     "id": "summon_abyssal_constructs",
     "itemClassId": "Active Skill Gem",
-    "name": "[DNT]Summon Abyssal Constructs"
+    "name": "\u041F\u0440\u0438\u0437\u044B\u0432 \u043A\u043E\u0441\u0442\u044F\u043D\u044B\u0445 \u0435\u0434\u043E\u043A\u043E\u0432"
   },
   {
     "id": "summon_arbalists",

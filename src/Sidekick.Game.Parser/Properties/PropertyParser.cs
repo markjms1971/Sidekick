@@ -39,6 +39,7 @@ public class PropertyParser
             new ArmourProperty(game, gameTextProvider),
             new EvasionRatingProperty(game, gameTextProvider),
             new EnergyShieldProperty(game, gameTextProvider),
+            new RunicWardProperty(game, gameTextProvider),
             new BlockChanceProperty(game, gameTextProvider),
 
             new WeaponDamageProperty(game, currentGameLanguage, serviceProvider, tradeFilterProvider),

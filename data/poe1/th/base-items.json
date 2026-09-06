@@ -15816,6 +15816,14 @@
     }
   },
   {
+    "id": "Metadata/Items/Deepwater/DeepwaterEldritch",
+    "itemClassId": "StackableCurrency",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E2D\u0E39\u0E04\u0E32\u0E17\u0E31\u0E27",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/Deepwater/DeepwaterGhostbuster",
     "itemClassId": "StackableCurrency",
     "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E0B\u0E32\u0E42\u0E21\u0E42\u0E17",
@@ -22808,6 +22816,94 @@
     }
   },
   {
+    "id": "Metadata/Items/GhostItems/GhostItem1x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x3",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x4",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x3",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x4",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x2",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem4x1",
+    "itemClassId": "GhostItem",
+    "name": "\u0E44\u0E2D\u0E40\u0E17\u0E21\u0E0B\u0E48\u0E2D\u0E19\u0E40\u0E23\u0E49\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/Heist/HeistBlueprintControlBlocks",
     "itemClassId": "HeistBlueprint",
     "name": "\u0E1E\u0E34\u0E21\u0E1E\u0E4C\u0E40\u0E02\u0E35\u0E22\u0E27: \u0E1A\u0E31\u0E07\u0E40\u0E01\u0E2D\u0E23\u0E4C",
@@ -25138,7 +25234,7 @@
   {
     "id": "Metadata/Items/MapFragments/AbyssPinnacleKeyGhastly",
     "itemClassId": "MapFragment",
-    "name": "\u0E40\u0E19\u0E15\u0E23\u0E2D\u0E19\u0E31\u0E19\u0E15\u0E4C\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E41\u0E23\u0E18",
+    "name": "\u0E40\u0E19\u0E15\u0E23\u0E42\u0E0B\u0E23\u0E32\u0E18\u0E2D\u0E19\u0E31\u0E19\u0E15\u0E4C",
     "req": {
       "lvl": 1
     }
@@ -25146,7 +25242,7 @@
   {
     "id": "Metadata/Items/MapFragments/AbyssPinnacleKeyHypnotic",
     "itemClassId": "MapFragment",
-    "name": "\u0E40\u0E19\u0E15\u0E23\u0E21\u0E34\u0E2D\u0E32\u0E08\u0E40\u0E25\u0E35\u0E48\u0E22\u0E07\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E41\u0E23\u0E18",
+    "name": "\u0E40\u0E19\u0E15\u0E23\u0E42\u0E0B\u0E23\u0E32\u0E18\u0E44\u0E21\u0E48\u0E2D\u0E32\u0E08\u0E40\u0E25\u0E35\u0E48\u0E22\u0E07",
     "req": {
       "lvl": 1
     }
@@ -25154,7 +25250,7 @@
   {
     "id": "Metadata/Items/MapFragments/AbyssPinnacleKeyMurderous",
     "itemClassId": "MapFragment",
-    "name": "\u0E40\u0E19\u0E15\u0E23\u0E21\u0E38\u0E48\u0E07\u0E23\u0E49\u0E32\u0E22\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E41\u0E23\u0E18",
+    "name": "\u0E40\u0E19\u0E15\u0E23\u0E42\u0E0B\u0E23\u0E32\u0E18\u0E21\u0E38\u0E48\u0E07\u0E23\u0E49\u0E32\u0E22",
     "req": {
       "lvl": 1
     }
@@ -25162,7 +25258,7 @@
   {
     "id": "Metadata/Items/MapFragments/AbyssPinnacleKeySearching",
     "itemClassId": "MapFragment",
-    "name": "\u0E40\u0E19\u0E15\u0E23\u0E2D\u0E33\u0E19\u0E32\u0E08\u0E02\u0E2D\u0E07\u0E42\u0E0B\u0E41\u0E23\u0E18",
+    "name": "\u0E40\u0E19\u0E15\u0E23\u0E42\u0E0B\u0E23\u0E32\u0E18\u0E40\u0E16\u0E25\u0E34\u0E07\u0E2D\u0E33\u0E19\u0E32\u0E08",
     "req": {
       "lvl": 1
     }
@@ -31736,6 +31832,54 @@
     }
   },
   {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat1",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E40\u0E1A\u0E37\u0E49\u0E2D\u0E07\u0E25\u0E36\u0E01\u0E40\u0E2B\u0E19\u0E35\u0E48\u0E22\u0E27\u0E23\u0E31\u0E49\u0E07",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat2",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E40\u0E04\u0E23\u0E37\u0E2D\u0E0D\u0E32\u0E15\u0E34\u0E42\u0E2A\u0E21\u0E21",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat3",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E02\u0E2D\u0E07\u0E02\u0E27\u0E31\u0E0D\u0E08\u0E32\u0E01\u0E0B\u0E31\u0E27\u0E18\u0E32",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat4",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E17\u0E30\u0E40\u0E25\u0E2D\u0E31\u0E19\u0E40\u0E14\u0E14",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat5",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E2B\u0E21\u0E39\u0E48\u0E40\u0E01\u0E32\u0E30\u0E22\u0E39\u0E04\u0E32\u0E23\u0E34\u0E14",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat6",
+    "itemClassId": "CursedDucat",
+    "name": "\u0E14\u0E39\u0E04\u0E31\u0E15\u0E14\u0E27\u0E07\u0E14\u0E32\u0E23\u0E32\u0E23\u0E48\u0E27\u0E07\u0E2B\u0E25\u0E48\u0E19",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/QuestItems/Labyrinth/Trinkets/BaneOfTheLoyal",
     "itemClassId": "LabyrinthTrinket",
     "name": "\u0E2B\u0E32\u0E22\u0E19\u0E30\u0E41\u0E01\u0E48\u0E1C\u0E39\u0E49\u0E20\u0E31\u0E01\u0E14\u0E35",
@@ -33682,7 +33826,7 @@
   {
     "id": "Metadata/Items/Scarabs/ScarabMapsNew5",
     "itemClassId": "MapFragment",
-    "name": "\u0E2A\u0E04\u0E32\u0E23\u0E31\u0E1A\u0E41\u0E1C\u0E19\u0E17\u0E35\u0E48 \u0E04\u0E27\u0E32\u0E21\u0E21\u0E32\u0E01\u0E21\u0E32\u0E22",
+    "name": "\u0E2A\u0E04\u0E32\u0E23\u0E31\u0E1A\u0E41\u0E1C\u0E19\u0E17\u0E35\u0E48 \u0E21\u0E32\u0E01\u0E21\u0E32\u0E22",
     "req": {
       "lvl": 73
     }
@@ -40567,7 +40711,7 @@
   {
     "id": "flame_breath",
     "itemClassId": "Active Skill Gem",
-    "name": "\u0E2B\u0E32\u0E22\u0E43\u0E08\u0E1E\u0E48\u0E19\u0E44\u0E1F (Flame Breath)"
+    "name": "\u0E1E\u0E48\u0E19\u0E44\u0E1F (Flame Breath)"
   },
   {
     "id": "flame_dash",
@@ -43187,7 +43331,7 @@
   {
     "id": "summon_abyssal_constructs",
     "itemClassId": "Active Skill Gem",
-    "name": "[DNT]Summon Abyssal Constructs"
+    "name": "\u0E2D\u0E31\u0E0D\u0E40\u0E0A\u0E34\u0E0D\u0E15\u0E31\u0E27\u0E01\u0E34\u0E19\u0E01\u0E23\u0E30\u0E14\u0E39\u0E01 (Summon Bone Feeders)"
   },
   {
     "id": "summon_arbalists",

@@ -12,6 +12,9 @@ public class ArmourFilters
     [JsonPropertyName("ev")]
     public StatFilterValue? EvasionRating { get; set; }
 
+    [JsonPropertyName("ward")]
+    public StatFilterValue? RunicWard { get; set; }
+
     [JsonPropertyName("block")]
     public StatFilterValue? BlockChance { get; set; }
 }

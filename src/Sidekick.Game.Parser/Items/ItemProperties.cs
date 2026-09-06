@@ -30,6 +30,10 @@ public class ItemProperties
 
     public int EvasionRatingWithQuality => CalculateValueWithQuality(EvasionRating);
 
+    public int RunicWard { get; set; }
+
+    public int RunicWardWithQuality => CalculateValueWithQuality(RunicWard);
+
     public int Spirit { get; set; }
 
     public int BlockChance { get; set; }

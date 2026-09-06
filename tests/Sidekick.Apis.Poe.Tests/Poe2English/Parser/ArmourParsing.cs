@@ -264,8 +264,7 @@ Hits against you have 43(40-50)% reduced Critical Damage Bonus
 
         Assert.Equal(79, actual.Properties.ItemLevel);
         Assert.Equal(600, actual.Properties.EnergyShield);
-        // TODO Runic Ward
-        // Assert.Equal(30, actual.Properties.RunicWard);
+        Assert.Equal(30, actual.Properties.RunicWard);
 
         Assert.Equal(75, actual.Properties.RequiresLevel);
         Assert.Equal(84, actual.Properties.RequiresIntelligence);
@@ -330,5 +329,52 @@ Corrupted");
         Assert.Equal(14, actual.Properties.RequiresDexterity);
 
         fixture.AssertHasStat(actual, StatCategory.Enchant, "#% increased Mana Regeneration Rate", 30);
+    }
+
+    [Fact]
+    public void LoathTread()
+    {
+        var actual = parser.ParseItem(@"Item Class: Boots
+Rarity: Rare
+Loath Tread
+Runeforged Sekhema Sandals
+--------
+Quality: +20% (augmented)
+Energy Shield: 203 (augmented)
+Runic Ward: 221 (augmented)
+--------
+Requires: Level 80, 108 Int
+--------
+Sockets: S 
+--------
+Item Level: 82
+--------
+18% increased Armour, Evasion and Energy Shield (rune)
+--------
+{ Prefix Modifier ""Cheetah's"" (Tier: 2) — Speed }
+30% increased Movement Speed
+{ Prefix Modifier ""Indomitable"" (Tier: 2) — Energy Shield }
+91(80-91)% increased Energy Shield
+{ Desecrated Prefix Modifier ""Pulsing"" (Tier: 2) — Energy Shield }
++47(42-47) to maximum Energy Shield
+{ Suffix Modifier ""of Tzteosh"" (Tier: 1) — Elemental, Fire, Resistance }
++42(41-45)% to Fire Resistance
+{ Suffix Modifier ""of the Thunderhead"" (Tier: 5) — Elemental, Lightning, Resistance }
++21(21-25)% to Lightning Resistance
+{ Crafted Suffix Modifier ""of the Stars"" }
++11(10-15) to Spirit
+");
+
+        Assert.Equal(ItemClass.Boots, actual.ItemClass.Type);
+        Assert.Equal(Rarity.Rare, actual.Properties.Rarity);
+        Assert.Null(actual.TradeItem?.Name);
+        Assert.Equal("Runeforged Sekhema Sandals", actual.TradeItem?.Type);
+
+        Assert.Equal(82, actual.Properties.ItemLevel);
+        Assert.Equal(203, actual.Properties.EnergyShield);
+        Assert.Equal(221, actual.Properties.RunicWard);
+
+        Assert.Equal(80, actual.Properties.RequiresLevel);
+        Assert.Equal(108, actual.Properties.RequiresIntelligence);
     }
 }
