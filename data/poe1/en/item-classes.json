@@ -74,6 +74,10 @@
     "name": "Currency"
   },
   {
+    "id": "CursedDucat",
+    "name": "Cursed Ducat"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "Daggers"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "Fishing Rods"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",

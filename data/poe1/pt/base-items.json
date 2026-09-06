@@ -15816,6 +15816,14 @@
     }
   },
   {
+    "id": "Metadata/Items/Deepwater/DeepwaterEldritch",
+    "itemClassId": "StackableCurrency",
+    "name": "Ducado de Ukatoa",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/Deepwater/DeepwaterGhostbuster",
     "itemClassId": "StackableCurrency",
     "name": "Ducado de Tzamoto",
@@ -22805,6 +22813,94 @@
     "name": "Refor\u00E7o Rajada de Vento",
     "req": {
       "lvl": 31
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x1",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x2",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x3",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x4",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x1",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x2",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x3",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x4",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x1",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x2",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem4x1",
+    "itemClassId": "GhostItem",
+    "name": "Item Escondido",
+    "req": {
+      "lvl": 1
     }
   },
   {
@@ -31731,6 +31827,54 @@
     "id": "Metadata/Items/PantheonSouls/PantheonSoulYugulUpgrade1",
     "itemClassId": "PantheonSoul",
     "name": "Alma Capturada de Varhesh, Aberra\u00E7\u00E3o Cintilante",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat1",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado da Profundeza Voraz",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat2",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado da Estirpe Imunda",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat3",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado da D\u00E1diva de Tsoatha",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat4",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado do Mar dos Mortos-Vivos",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat5",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado da Ilha Eucarida",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat6",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado das Estrelas Cadentes",
     "req": {
       "lvl": 1
     }
@@ -43172,7 +43316,7 @@
   {
     "id": "summon_abyssal_constructs",
     "itemClassId": "Active Skill Gem",
-    "name": "[DNT]Summon Abyssal Constructs"
+    "name": "Invocar Devoradores de Ossos"
   },
   {
     "id": "summon_arbalists",

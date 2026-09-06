@@ -46,6 +46,7 @@ public class GameText
     public string ItemPropertyArmour { get; set; } = string.Empty;
     public string ItemPropertyEvasionRating { get; set; } = string.Empty;
     public string ItemPropertyEnergyShield { get; set; } = string.Empty;
+    public string ItemPropertyRunicWard { get; set; } = string.Empty;
     public string ItemPropertyBlockChance { get; set; } = string.Empty;
 
     public string ItemPropertyAttacksPerSecond { get; set; } = string.Empty;

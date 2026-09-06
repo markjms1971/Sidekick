@@ -33,6 +33,7 @@
   "itemPropertyArmour": "R\u00FCstung",
   "itemPropertyEvasionRating": "Ausweichwert",
   "itemPropertyEnergyShield": "Energieschild",
+  "itemPropertyRunicWard": "Schutz",
   "itemPropertyBlockChance": "Chance auf Blocken",
   "itemPropertyAttacksPerSecond": "Angriffe pro Sekunde",
   "itemPropertyCriticalStrikeChance": "Kritische Trefferchance",

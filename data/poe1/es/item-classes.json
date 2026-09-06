@@ -74,6 +74,10 @@
     "name": "Objetos monetarios"
   },
   {
+    "id": "CursedDucat",
+    "name": "Ducado maldito"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "Dagas"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "Ca\u00F1as de pescar"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",

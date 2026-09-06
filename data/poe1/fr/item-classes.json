@@ -74,6 +74,10 @@
     "name": "Objet mon\u00E9taire"
   },
   {
+    "id": "CursedDucat",
+    "name": "Ducat maudit"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "Dagues"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "Cannes \u00E0 p\u00EAche"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",

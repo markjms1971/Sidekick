@@ -15816,6 +15816,14 @@
     }
   },
   {
+    "id": "Metadata/Items/Deepwater/DeepwaterEldritch",
+    "itemClassId": "StackableCurrency",
+    "name": "Ducado de Ukatoa",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/Deepwater/DeepwaterGhostbuster",
     "itemClassId": "StackableCurrency",
     "name": "Ducado de Tzamoto",
@@ -18178,7 +18186,7 @@
   {
     "id": "Metadata/Items/DivinationCards/DivinationCardTheFiend",
     "itemClassId": "DivinationCard",
-    "name": "El demonio",
+    "name": "El diablo",
     "req": {
       "lvl": 75
     }
@@ -22805,6 +22813,94 @@
     "name": "Asistencia de Estallido de viento",
     "req": {
       "lvl": 31
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x1",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x2",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x3",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x4",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x1",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x2",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x3",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x4",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x1",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x2",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem4x1",
+    "itemClassId": "GhostItem",
+    "name": "Objeto oculto",
+    "req": {
+      "lvl": 1
     }
   },
   {
@@ -31731,6 +31827,54 @@
     "id": "Metadata/Items/PantheonSouls/PantheonSoulYugulUpgrade1",
     "itemClassId": "PantheonSoul",
     "name": "Alma capturada de Varhesh, Aberraci\u00F3n brillante",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat1",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado de profundidades apresantes",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat2",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado de relaciones malignas",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat3",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado del regalo de Tsoatha",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat4",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado del mar de muerte",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat5",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado de la Isla de Eucarid",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat6",
+    "itemClassId": "CursedDucat",
+    "name": "Ducado de las estrellas ca\u00EDdas",
     "req": {
       "lvl": 1
     }
@@ -43227,7 +43371,7 @@
   {
     "id": "summon_abyssal_constructs",
     "itemClassId": "Active Skill Gem",
-    "name": "[DNT]Summon Abyssal Constructs"
+    "name": "Invocar devoradores de huesos"
   },
   {
     "id": "summon_arbalists",

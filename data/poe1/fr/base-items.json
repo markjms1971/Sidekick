@@ -15816,6 +15816,14 @@
     }
   },
   {
+    "id": "Metadata/Items/Deepwater/DeepwaterEldritch",
+    "itemClassId": "StackableCurrency",
+    "name": "Ducat d\u0027Ukatoa",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
     "id": "Metadata/Items/Deepwater/DeepwaterGhostbuster",
     "itemClassId": "StackableCurrency",
     "name": "Ducat de Tzamoto",
@@ -22805,6 +22813,94 @@
     "name": "Soutien : Rafale de vent",
     "req": {
       "lvl": 31
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x1",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x2",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x3",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem1x4",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x1",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x2",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x3",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem2x4",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x1",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem3x2",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/GhostItems/GhostItem4x1",
+    "itemClassId": "GhostItem",
+    "name": "Objet cach\u00E9",
+    "req": {
+      "lvl": 1
     }
   },
   {
@@ -31731,6 +31827,54 @@
     "id": "Metadata/Items/PantheonSouls/PantheonSoulYugulUpgrade1",
     "itemClassId": "PantheonSoul",
     "name": "\u00C2me captur\u00E9e de Varhesh, l\u0027Aberration miroitante",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat1",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat des Profondeurs agrippantes",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat2",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat de la Lign\u00E9e inf\u00E2me",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat3",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat du Don de Tsoatha",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat4",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat de la Mer des morts-vivants",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat5",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat de l\u0027\u00CEle Eucaride",
+    "req": {
+      "lvl": 1
+    }
+  },
+  {
+    "id": "Metadata/Items/QuestItems/Deepwater/DeepwaterQuestDucat6",
+    "itemClassId": "CursedDucat",
+    "name": "Ducat des \u00C9toiles d\u00E9chues",
     "req": {
       "lvl": 1
     }
@@ -43227,7 +43371,7 @@
   {
     "id": "summon_abyssal_constructs",
     "itemClassId": "Active Skill Gem",
-    "name": "[DNT]Summon Abyssal Constructs"
+    "name": "Invocations de D\u00E9voreurs d\u0027os"
   },
   {
     "id": "summon_arbalists",

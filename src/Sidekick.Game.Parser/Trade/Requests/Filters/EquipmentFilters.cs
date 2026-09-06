@@ -12,6 +12,9 @@ public class EquipmentFilters
     [JsonPropertyName("ev")]
     public StatFilterValue? EvasionRating { get; set; }
 
+    [JsonPropertyName("ward")]
+    public StatFilterValue? RunicWard { get; set; }
+
     [JsonPropertyName("spirit")]
     public StatFilterValue? Spirit { get; set; }
 

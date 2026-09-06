@@ -74,6 +74,10 @@
     "name": "W\u00E4hrung"
   },
   {
+    "id": "CursedDucat",
+    "name": "Verfluchte Dukate"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "Dolche"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "Angelruten"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",

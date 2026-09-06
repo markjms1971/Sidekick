@@ -416,6 +416,12 @@
   {
     "type": "LineageSupportGems",
     "url": "lineage-support-gems",
+    "detailsId": "breachlords-amalgam",
+    "id": "breachlords-amalgam"
+  },
+  {
+    "type": "LineageSupportGems",
+    "url": "lineage-support-gems",
     "detailsId": "breachlords-rift",
     "id": "breachlords-rift"
   },
@@ -742,12 +748,6 @@
     "url": "essences",
     "detailsId": "essence-of-alacrity",
     "id": "essence-of-alacrity"
-  },
-  {
-    "type": "Essences",
-    "url": "essences",
-    "detailsId": "essence-of-battle",
-    "id": "essence-of-battle"
   },
   {
     "type": "Essences",
@@ -1734,12 +1734,6 @@
     "id": "lesser-essence-of-the-infinite"
   },
   {
-    "type": "Essences",
-    "url": "essences",
-    "detailsId": "lesser-essence-of-the-mind",
-    "id": "lesser-essence-of-the-mind"
-  },
-  {
     "type": "Runes",
     "url": "runes",
     "detailsId": "lesser-glacial-rune",
@@ -2394,6 +2388,12 @@
     "id": "perfect-jewellers-orb"
   },
   {
+    "type": "Runes",
+    "url": "runes",
+    "detailsId": "perfect-mind-rune",
+    "id": "perfect-mind-rune"
+  },
+  {
     "type": "Currency",
     "url": "currency",
     "detailsId": "perfect-orb-of-augmentation",
@@ -2620,6 +2620,12 @@
     "url": "runes",
     "detailsId": "rune-of-acrobatics",
     "id": "rune-of-acrobatics"
+  },
+  {
+    "type": "Runes",
+    "url": "runes",
+    "detailsId": "rune-of-confrontation",
+    "id": "rune-of-confrontation"
   },
   {
     "type": "Runes",
@@ -3426,6 +3432,12 @@
     "id": "uul-netols-catalyst"
   },
   {
+    "type": "LineageSupportGems",
+    "url": "lineage-support-gems",
+    "detailsId": "uul-netols-embrace",
+    "id": "uul-netols-embrace"
+  },
+  {
     "type": "Currency",
     "url": "currency",
     "detailsId": "vaal-arcanists-infuser",
@@ -3460,6 +3472,12 @@
     "url": "currency",
     "detailsId": "vaal-orb",
     "id": "vaal"
+  },
+  {
+    "type": "Currency",
+    "url": "currency",
+    "detailsId": "vaal-siphoner",
+    "id": "vaal-siphoner"
   },
   {
     "type": "LineageSupportGems",
@@ -3586,6 +3604,12 @@
     "url": "runes",
     "detailsId": "warding-rune-of-equinox",
     "id": "warding-rune-of-equinox"
+  },
+  {
+    "type": "Runes",
+    "url": "runes",
+    "detailsId": "warding-rune-of-glancing",
+    "id": "warding-rune-of-glancing"
   },
   {
     "type": "Runes",

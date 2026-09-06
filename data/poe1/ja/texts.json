@@ -33,6 +33,7 @@
   "itemPropertyArmour": "\u30A2\u30FC\u30DE\u30FC",
   "itemPropertyEvasionRating": "\u56DE\u907F\u529B",
   "itemPropertyEnergyShield": "\u30A8\u30CA\u30B8\u30FC\u30B7\u30FC\u30EB\u30C9",
+  "itemPropertyRunicWard": "\u30EF\u30FC\u30C9",
   "itemPropertyBlockChance": "\u30D6\u30ED\u30C3\u30AF\u7387",
   "itemPropertyAttacksPerSecond": "\u79D2\u9593\u30A2\u30BF\u30C3\u30AF\u56DE\u6570",
   "itemPropertyCriticalStrikeChance": "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u7387",

@@ -74,6 +74,10 @@
     "name": "Item Monet\u00E1rio"
   },
   {
+    "id": "CursedDucat",
+    "name": "Ducado Amaldi\u00E7oado"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "Adagas"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "Varas de Pescar"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",

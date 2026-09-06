@@ -74,6 +74,10 @@
     "name": "\u901A\u8CA8"
   },
   {
+    "id": "CursedDucat",
+    "name": "\u8A5B\u5492\u9054\u514B\u7279"
+  },
+  {
     "id": "Dagger",
     "type": "dagger",
     "name": "\u5315\u9996"
@@ -104,6 +108,10 @@
     "id": "FishingRod",
     "type": "fishingRod",
     "name": "\u9B5A\u7AFF"
+  },
+  {
+    "id": "GhostItem",
+    "name": ""
   },
   {
     "id": "GiftBox",
